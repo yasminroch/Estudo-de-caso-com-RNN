@@ -9,7 +9,7 @@ O presente trabalho foi realizado pelos alunos da primeira turma de Ciência da 
 * Sarah Ribeiro;
 * Yasmin Vitória Rocha.
 
-Com base na atividade proposta na quinta semana, referente a RNN com biblioteca, abaixo é possível visualizar os seguintes pontos de análise efetuada em equipe:
+Com base na atividade proposta na quinta semana referente a RNN com biblioteca, abaixo é possível visualizar os seguintes pontos de análise efetuada em equipe:
 * Estudo de caso utilizado (Qual problema a implementação resolveu);
 * Pontos positivos e negativos da implementação;
 * Métrica utilizada (por exemplo: MAE, MSE e os valores obtidos)
